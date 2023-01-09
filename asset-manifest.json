@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/developer-kimsky/youtube/static/css/main.548b090e.css",
-    "main.js": "/developer-kimsky/youtube/static/js/main.3e5691fa.js",
-    "index.html": "/developer-kimsky/youtube/index.html",
-    "main.548b090e.css.map": "/developer-kimsky/youtube/static/css/main.548b090e.css.map",
-    "main.3e5691fa.js.map": "/developer-kimsky/youtube/static/js/main.3e5691fa.js.map"
+    "main.css": "./static/css/main.548b090e.css",
+    "main.js": "./static/js/main.3e5691fa.js",
+    "index.html": "./index.html",
+    "main.548b090e.css.map": "./static/css/main.548b090e.css.map",
+    "main.3e5691fa.js.map": "./static/js/main.3e5691fa.js.map"
   },
   "entrypoints": [
     "static/css/main.548b090e.css",
