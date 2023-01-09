@@ -1,6 +1,6 @@
 <h1>Youtube API test</h1>
 <h3>Link</h3>
-<p>https://github.com/developer-kimsky/youtube/</p>
+<p>https://developer-kimsky.github.io/youtube/</p>
 
 <h3>Tech Stack</h3>
 <div style=="display:flex;">
